@@ -6,5 +6,5 @@ gem 'shotgun'
 
 gem 'rspec'
 gem 'capybara'
-
+gem 'byebug'
 gem 'learn-co'
